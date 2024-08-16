@@ -1,1 +1,1 @@
-# Finciones-Param-tricas-R---R-2--Curvas-Cl-sicas-Luis-Ju-rez-Erick
+Primer Codigo Python Luis Juárez Erick
